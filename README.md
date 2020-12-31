@@ -19,6 +19,16 @@ php artisan migrate --seed
 - To access API use address `http://127.0.0.1:8000/api`
 - Endpoints in a `JSON` file to insomnia inside the backend folder: Insomnia_2020-12-31.json
 
+Command to run `frontend` application
+
+```bash
+cd Monolith/frontend/
+
+npm install
+
+npm run serve
+```
+
 ## Microservice
 
 ```bash
