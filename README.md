@@ -32,7 +32,7 @@ npm run serve
 ## Microservice
 
 ```bash
-foo
+cd Microservices
 ```
 
 ## Contributing
